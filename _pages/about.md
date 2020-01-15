@@ -13,11 +13,11 @@ I am an undergraduate student from [Shanghai Jiao Tong University](https://www.s
 
 ### Experience
 * Intern as a research engineer at [YITU](https://www.yitutech.com/) (2019.9-2019.12)
-*[Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) (2016.9-now)
+* [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) (2016.9-now)
 
 
 ### Research Interests
 My research interests include topics in machine learning.
 Most recently, I am interested in
 * Explainable deep learning
-* Graph Neural Networks
+* Graph Neural Network
