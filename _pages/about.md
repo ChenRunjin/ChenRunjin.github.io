@@ -8,16 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-# Biography
+### Biography
 I am an undergraduate student from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), I joined [Quanshi Zhang](http://qszhang.com/#)’s team in summer of 2018 and worked on explainable deep learning.
 
-# Experience
-[YITU](https://www.yitutech.com/) intern as a research engineer (2019.9-2019.12)
+### Experience
+* Intern as a research engineer at [YITU](https://www.yitutech.com/) (2019.9-2019.12)
+*[Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) (2016.9-now)
 
-[Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) (2016.9-now)
 
-
-# Research Interests
+### Research Interests
 My research interests include topics in machine learning.
 Most recently, I am interested in
 * Explainable deep learning
