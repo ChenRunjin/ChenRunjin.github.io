@@ -44,12 +44,12 @@ My research interest includes graph and machine learning. If you are interested 
 
 [Explaining Neural Networks Semantically and Quantitatively](https://openaccess.thecvf.com/content_ICCV_2019/html/Chen_Explaining_Neural_Networks_Semantically_and_Quantitatively_ICCV_2019_paper.html) [ICCV 2019 oral]
 
-**Runjin Chen**$^*$, Hao Chen$^*$, Jie Ren, Ge Huang, Quanshi Zhang
+**Runjin Chen***, Hao Chen*, Jie Ren, Ge Huang, Quanshi Zhang
 
 
 [Towards a Deep and Unified Understanding of Deep Neural Models in NLP](http://proceedings.mlr.press/v97/guan19a.html)
 
-Chaoyu Guan$^*$, Xiting Wang$^*$, Quanshi Zhang, **Runjin Chen**, Di He, Xing Xie
+Chaoyu Guan*, Xiting Wang*, Quanshi Zhang, **Runjin Chen**, Di He, Xing Xie
 
 
 # 📖 Educations
