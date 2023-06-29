@@ -17,44 +17,54 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming PHD student at the Department of Electrical and Computer Engineering, [University of Texas at Austin](https://www.utexas.edu), advised by [prof.Zhangyang Wang]. Prior to this, I obtained my master and bachelor's degree from Shanghai Jiao Tong University (SJTU) in 2023 and 2020 respectively. 
+I am an incoming PHD student at the Department of Electrical and Computer Engineering, [University of Texas at Austin](https://www.utexas.edu), advised by [prof.Zhangyang Wang](https://express.adobe.com/page/CAdrFMJ9QeI2y/). Prior to this, I obtained my master and bachelor's degree from Shanghai Jiao Tong University (SJTU) in 2023 and 2020 respectively. 
 
 My research interest includes graph and machine learning. If you are interested in my research work, please feel free to concat me.
 
 
- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
 
 # 🔥 News
-- *2023.06*: &nbsp;🎉🎉 I'm going to join VITA in August, 2023!
+
+- *2023.06*: &nbsp;🎉🎉 I'm going to join [VITA](https://vita-group.github.io/group.html) in August, 2023!
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[GCF-RD: A Graph-based Contrastive Framework for Semi-Supervised Learning on Relational Databases](https://dl.acm.org/doi/abs/10.1145/3511808.3557331) [CIKM 2022]
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Runjin Chen**, Tong Li, Yanyan Shen, Luyu Qiu, Kaidi Li, Caleb Chen Cao
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[GNEM: A Generic One-to-Set Neural Entity Matching](https://dl.acm.org/doi/abs/10.1145/3442381.3450119) [WWW 2021]
+
+**Runjin Chen**, Yanyan Shen, Dongxiang Zhang
+
+
+[Explaining Neural Networks Semantically and Quantitatively](https://openaccess.thecvf.com/content_ICCV_2019/html/Chen_Explaining_Neural_Networks_Semantically_and_Quantitatively_ICCV_2019_paper.html) [ICCV 2019 oral]
+
+**Runjin Chen**$^*$, Hao Chen$^*$, Jie Ren, Ge Huang, Quanshi Zhang
+
+
+[Towards a Deep and Unified Understanding of Deep Neural Models in NLP](http://proceedings.mlr.press/v97/guan19a.html)
+
+Chaoyu Guan$^*$, Xiting Wang$^*$, Quanshi Zhang, **Runjin Chen**, Di He, Xing Xie
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.3* Outstanding graduate student of Shanghai Jiao Tong Uiversity.
+- *2021.7* Yangyuanqin Scholarship.
+- *2020.6* Zhiyuan Honor Degree of Bachelor of Engineering.
+- *2018.11* The First Prize in Contemporary Undergraduate Mathematical Contest in Modeling.
+- *2018.3* Meritorious Prize in Mathematical Contest in Modeling.
+- *2017.11* National Scholarship Award (top1% in SJTU).
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023 - 2028(expected)*, PHD in ECE, University of Texas at Austin. 
+- *2020 - 2023*, Master in Computer Science, Shanghai Jiao Tong University. 
+- *2016 - 2020*, Bachelor in Computer Science, Shanghai Jiao Tong University. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.02 - 2023.06*, [Bytedance](https://www.bytedance.com/en/), China.
