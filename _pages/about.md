@@ -52,14 +52,6 @@ My research interest includes graph and machine learning. If you are interested 
 Chaoyu Guan$^*$, Xiting Wang$^*$, Quanshi Zhang, **Runjin Chen**, Di He, Xing Xie
 
 
-# 🎖 Honors and Awards
-- *2023.3* Outstanding graduate student of Shanghai Jiao Tong Uiversity.
-- *2021.7* Yangyuanqin Scholarship.
-- *2020.6* Zhiyuan Honor Degree of Bachelor of Engineering.
-- *2018.11* The First Prize in Contemporary Undergraduate Mathematical Contest in Modeling.
-- *2018.3* Meritorious Prize in Mathematical Contest in Modeling.
-- *2017.11* National Scholarship Award (top1% in SJTU).
-
 # 📖 Educations
 - *2023 - 2028(expected)*, PHD in ECE, University of Texas at Austin. 
 - *2020 - 2023*, Master in Computer Science, Shanghai Jiao Tong University. 
@@ -68,3 +60,12 @@ Chaoyu Guan$^*$, Xiting Wang$^*$, Quanshi Zhang, **Runjin Chen**, Di He, Xing Xi
 
 # 💻 Internships
 - *2023.02 - 2023.06*, [Bytedance](https://www.bytedance.com/en/), China.
+
+
+# 🎖 Honors and Awards
+- *2023.3* Outstanding graduate student of Shanghai Jiao Tong Uiversity.
+- *2021.7* Yangyuanqin Scholarship.
+- *2020.6* Zhiyuan Honor Degree of Bachelor of Engineering.
+- *2018.11* The First Prize in Contemporary Undergraduate Mathematical Contest in Modeling.
+- *2018.3* Meritorious Prize in Mathematical Contest in Modeling.
+- *2017.11* National Scholarship Award (top1% in SJTU).
