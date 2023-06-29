@@ -43,7 +43,7 @@ I am an incoming PHD student at the Department of Electrical and Computer Engine
 **Runjin Chen**<sup>*</sup>, Hao Chen<sup>*</sup>, Jie Ren, Ge Huang, Quanshi Zhang
 
 
-[Towards a Deep and Unified Understanding of Deep Neural Models in NLP](http://proceedings.mlr.press/v97/guan19a.html)
+[Towards a Deep and Unified Understanding of Deep Neural Models in NLP](http://proceedings.mlr.press/v97/guan19a.html) [ICML 2019]
 
 Chaoyu Guan<sup>*</sup>, Xiting Wang<sup>*</sup>, Quanshi Zhang, **Runjin Chen**, Di He, Xing Xie
 
