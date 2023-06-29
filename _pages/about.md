@@ -49,7 +49,7 @@ Chaoyu Guan<sup>*</sup>, Xiting Wang<sup>*</sup>, Quanshi Zhang, **Runjin Chen**
 
 
 # 📖 Educations
-- *2023 - 2028(expected)*, PHD in ECE, University of Texas at Austin. 
+- *2023 - 2028(expected)*, PHD in Electrical and Computer Engineering, University of Texas at Austin. 
 - *2020 - 2023*, Master in Computer Science, Shanghai Jiao Tong University. 
 - *2016 - 2020*, Bachelor in Computer Science, Shanghai Jiao Tong University. 
 
