@@ -55,7 +55,7 @@ Chaoyu Guan<sup>*</sup>, Xiting Wang<sup>*</sup>, Quanshi Zhang, **Runjin Chen**
 
 
 # 💻 Internships
-- *2023.02 - 2023.06*, [Bytedance](https://www.bytedance.com/en/), China.
+- *2023.02 - 2023.06*, Algorithm Engineer for Recommendation System in [Bytedance](https://www.bytedance.com/en/), China.
 
 
 # 🎖 Honors and Awards
