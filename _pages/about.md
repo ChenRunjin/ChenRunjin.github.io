@@ -29,8 +29,8 @@ My research interest includes graph and machine learning. If you are interested 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
 [GCF-RD: A Graph-based Contrastive Framework for Semi-Supervised Learning on Relational Databases](https://dl.acm.org/doi/abs/10.1145/3511808.3557331) [CIKM 2022]
 
