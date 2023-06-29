@@ -59,7 +59,7 @@ Chaoyu Guan<sup>*</sup>, Xiting Wang<sup>*</sup>, Quanshi Zhang, **Runjin Chen**
 
 
 # 🎖 Honors and Awards
-- *2023.03*  Outstanding graduate student of Shanghai Jiao Tong Uiversity.
+- *2023.03*  Outstanding Graduate Student of Shanghai Jiao Tong Uiversity.
 - *2021.07*  Yangyuanqin Scholarship.
 - *2020.06*  Zhiyuan Honor Degree of Bachelor of Engineering.
 - *2018.11*  The First Prize in Contemporary Undergraduate Mathematical Contest in Modeling.
