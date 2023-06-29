@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming PHD student at the Department of Electrical and Computer Engineering, [University of Texas at Austin](https://www.utexas.edu), advised by [Prof.Zhangyang Wang](https://express.adobe.com/page/CAdrFMJ9QeI2y/). Prior to this, I obtained my master's and bachelor's degree from Shanghai Jiao Tong University (SJTU) in 2023 and 2020 respectively. My research interest includes graph neural network and machine learning. If you are interested in my research work, please feel free to contact me.
+I am an incoming PHD student at the Department of Electrical and Computer Engineering, [University of Texas at Austin](https://www.utexas.edu), advised by [Prof.Zhangyang Wang](https://vita-group.github.io/group.html). Prior to this, I obtained my master's and bachelor's degree from Shanghai Jiao Tong University (SJTU) in 2023 and 2020 respectively. My research interest includes graph neural network and machine learning. If you are interested in my research work, please feel free to contact me.
 
 
 # 🔥 News
