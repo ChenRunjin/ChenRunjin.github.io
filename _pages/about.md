@@ -40,12 +40,12 @@ I am an incoming PHD student at the Department of Electrical and Computer Engine
 
 [Explaining Neural Networks Semantically and Quantitatively](https://openaccess.thecvf.com/content_ICCV_2019/html/Chen_Explaining_Neural_Networks_Semantically_and_Quantitatively_ICCV_2019_paper.html) [ICCV 2019 oral]
 
-**Runjin Chen***, Hao Chen*, Jie Ren, Ge Huang, Quanshi Zhang
+**Runjin Chen**<sup>*</sup>, Hao Chen<sup>*</sup>, Jie Ren, Ge Huang, Quanshi Zhang
 
 
 [Towards a Deep and Unified Understanding of Deep Neural Models in NLP](http://proceedings.mlr.press/v97/guan19a.html)
 
-Chaoyu Guan*, Xiting Wang*, Quanshi Zhang, **Runjin Chen**, Di He, Xing Xie
+Chaoyu Guan<sup>*</sup>, Xiting Wang<sup>*</sup>, Quanshi Zhang, **Runjin Chen**, Di He, Xing Xie
 
 
 # 📖 Educations
@@ -59,9 +59,9 @@ Chaoyu Guan*, Xiting Wang*, Quanshi Zhang, **Runjin Chen**, Di He, Xing Xie
 
 
 # 🎖 Honors and Awards
-- *2023.3* Outstanding graduate student of Shanghai Jiao Tong Uiversity.
-- *2021.7* Yangyuanqin Scholarship.
-- *2020.6* Zhiyuan Honor Degree of Bachelor of Engineering.
-- *2018.11* The First Prize in Contemporary Undergraduate Mathematical Contest in Modeling.
-- *2018.3* Meritorious Prize in Mathematical Contest in Modeling.
-- *2017.11* National Scholarship Award (top1% in SJTU).
+- *2023.03*  Outstanding graduate student of Shanghai Jiao Tong Uiversity.
+- *2021.07*  Yangyuanqin Scholarship.
+- *2020.06*  Zhiyuan Honor Degree of Bachelor of Engineering.
+- *2018.11*  The First Prize in Contemporary Undergraduate Mathematical Contest in Modeling.
+- *2018.03*  Meritorious Prize in Mathematical Contest in Modeling.
+- *2017.11*  National Scholarship Award (top1% in SJTU).
