@@ -29,6 +29,7 @@ I am a first-year PHD student at the Department of Electrical and Computer Engin
 <div class='paper-box-text' markdown="1"> -->
 
 [LLaGA: Large Language and Graph Assistant](https://arxiv.org/abs/2402.08170) [Preprint]
+
 **Runjin Chen**, Tong Zhao, Ajay Jaiswal, Neil Shah, Zhangyang Wang
 
 [GCF-RD: A Graph-based Contrastive Framework for Semi-Supervised Learning on Relational Databases](https://dl.acm.org/doi/abs/10.1145/3511808.3557331) [CIKM 2022]
