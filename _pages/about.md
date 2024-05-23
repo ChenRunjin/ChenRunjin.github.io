@@ -28,9 +28,17 @@ I am a first-year PHD student at the Department of Electrical and Computer Engin
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-[LLaGA: Large Language and Graph Assistant](https://arxiv.org/abs/2402.08170) [Preprint]
+[LLaGA: Large Language and Graph Assistant](https://arxiv.org/abs/2402.08170) [ICML 2024]
 
 **Runjin Chen**, Tong Zhao, Ajay Jaiswal, Neil Shah, Zhangyang Wang
+
+[Q-Hitter: A Better Token Oracle for Efficient LLM Inference via Sparse-Quantized KV Cache](https://chenrunjin.github.io/)[MLSys 2024]
+
+Zhenyu Zhang, Shiwei Liu, **Runjin Chen**, Bhavya Kailkhura, Beidi Chen, Zhangyang Wang
+
+[Found in the Middle: How Language Models Use Long Contexts Better via Plug-and-Play Positional Encoding](https://arxiv.org/pdf/2403.04797)[Preprint]
+
+Zhenyu Zhang,  **Runjin Chen**,  Shiwei Liu,  Zhewei Yao, Olatunji Ruwase,  Beidi Chen,  Xiaoxia Wu, Zhangyang Wang
 
 [GCF-RD: A Graph-based Contrastive Framework for Semi-Supervised Learning on Relational Databases](https://dl.acm.org/doi/abs/10.1145/3511808.3557331) [CIKM 2022]
 
