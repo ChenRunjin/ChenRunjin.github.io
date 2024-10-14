@@ -36,7 +36,7 @@ I am a first-year PHD student at the Department of Electrical and Computer Engin
 
 Zhenyu Zhang, Shiwei Liu, **Runjin Chen**, Bhavya Kailkhura, Beidi Chen, Zhangyang Wang
 
-[Found in the Middle: How Language Models Use Long Contexts Better via Plug-and-Play Positional Encoding](https://arxiv.org/pdf/2403.04797) [Preprint]
+[Found in the Middle: How Language Models Use Long Contexts Better via Plug-and-Play Positional Encoding](https://arxiv.org/pdf/2403.04797) [Neurips 2024]
 
 Zhenyu Zhang,  **Runjin Chen**,  Shiwei Liu,  Zhewei Yao, Olatunji Ruwase,  Beidi Chen,  Xiaoxia Wu, Zhangyang Wang
 
