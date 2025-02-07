@@ -32,7 +32,7 @@ I am a second-year PHD student at the Department of Electrical and Computer Engi
 
 **Runjin Chen**, Tong Zhao, Ajay Jaiswal, Neil Shah, Zhangyang Wang
 
-Extracting and Understanding the Superficial Knowledge in Alignment [NAACL 2025]
+[Extracting and Understanding the Superficial Knowledge in Alignment](https://github.com/ChenRunjin/ChenRunjin.github.io/blob/main/files/Superficial.pdf) [NAACL 2025]
 
 **Runjin Chen**, Gabriel Jacob Perin, Xuxi Chen, Xilun Chen, Yan Han, Nina S. T. Hirata , Junyuan Hong, Bhavya Kailkhura
 
