@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year PHD student at the Department of Electrical and Computer Engineering, [University of Texas at Austin](https://www.utexas.edu), advised by [Prof.Zhangyang Wang](https://vita-group.github.io/group.html). Prior to this, I obtained my master's and bachelor's degree from Shanghai Jiao Tong University (SJTU) in 2023 and 2020 respectively. My research interest includes large language models and Graph neural networks. If you are interested in my research work, please feel free to contact me.
+I am a second-year PHD student at the Department of Electrical and Computer Engineering, [University of Texas at Austin](https://www.utexas.edu), advised by [Prof.Zhangyang Wang](https://vita-group.github.io/group.html). Prior to this, I obtained my master's and bachelor's degree from Shanghai Jiao Tong University (SJTU) in 2023 and 2020 respectively. My research interest includes large language models and Graph neural networks. If you are interested in my research work, please feel free to contact me.
 
 
 # 🔥 News
@@ -31,6 +31,15 @@ I am a first-year PHD student at the Department of Electrical and Computer Engin
 [LLaGA: Large Language and Graph Assistant](https://arxiv.org/abs/2402.08170) [ICML 2024]
 
 **Runjin Chen**, Tong Zhao, Ajay Jaiswal, Neil Shah, Zhangyang Wang
+
+Extracting and Understanding the Superficial Knowledge in Alignment [NAACL 2025]
+
+**Runjin Chen**, Gabriel Jacob Perin, Xuxi Chen, Xilun Chen, Yan Han, Nina S. T. Hirata , Junyuan Hong, Bhavya Kailkhura
+
+[Enhancing Item Tokenization for Generative Recommendation through Self-Improvement](https://arxiv.org/abs/2412.17171) 
+
+**Runjin Chen**, Mingxuan Ju, Ngoc Bui, Dimosthenis Antypas, Stanley Cai, Xiaopeng Wu, Leonardo Neves, Zhangyang Wang, Neil Shah, Tong Zhao
+
 
 [Q-Hitter: A Better Token Oracle for Efficient LLM Inference via Sparse-Quantized KV Cache](https://chenrunjin.github.io/) [MLSys 2024]
 
