@@ -26,7 +26,7 @@ My current research interests lie in **LLM Interpretability, safety and alignmen
 
 - *2023.06*: &nbsp;🎉🎉 I'm going to join [VITA](https://vita-group.github.io/group.html) in August, 2023!
 - *2025.03*: &nbsp;🎉🎉 I'm going to join [Anthropic](https://alignment.anthropic.com/2024/anthropic-fellows-program) as a AI safety Research Fellow!
-- *2025.10*: &nbsp;🎉🎉 I have joined [Anthropic](https://www.anthropic.com/) as a Member of Technical Staff!
+- *2025.10*: &nbsp;🎉🎉 I have joined [Anthropic](https://www.anthropic.com/) full-time as a Member of Technical Staff!
 
 
 # 📝 Selected Publications 
