@@ -89,7 +89,7 @@ Chaoyu Guan<sup>*</sup>, Xiting Wang<sup>*</sup>, Quanshi Zhang, **Runjin Chen**
 
 
 # 💻 Working Experience
-- *2025.10 - present*, Member of Technical Staff (full-time) at [Anthropic](https://www.anthropic.com/).
+- *2025.10 - present*, Member of Technical Staff at [Anthropic](https://www.anthropic.com/).
 
 - *2025.03 - 2025.09*, Reasearch Fellow at [Anthropic](https://alignment.anthropic.com/2024/anthropic-fellows-program), Berkeley.
 
