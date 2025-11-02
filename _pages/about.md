@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Member of Technical Staff at Anthropic. I am also a Ph.D. student at the [University of Texas at Austin](https://www.utexas.edu), advised by [Prof. Zhangyang Wang](https://vita-group.github.io/group.html). Prior to that, I received my M.S. and B.S. degrees from Shanghai Jiao Tong University (SJTU) in 2023 and 2020, respectively.  
+I am a Member of Technical Staff at [Anthropic](https://www.anthropic.com/). I am also a Ph.D. student at the [University of Texas at Austin](https://www.utexas.edu), advised by [Prof. Zhangyang Wang](https://vita-group.github.io/group.html). Prior to that, I received my M.S. and B.S. degrees from Shanghai Jiao Tong University (SJTU) in 2023 and 2020, respectively.  
 My current research interests lie in **LLM Interpretability, safety and alignment**. If you're interested in my work, feel free to contact me.
 
 
