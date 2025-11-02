@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student at the [University of Texas at Austin](https://www.utexas.edu), advised by [Prof. Zhangyang Wang](https://vita-group.github.io/group.html). Since March 2025, I have been working as a Research Fellow at Anthropic. Prior to that, I received my M.S. and B.S. degrees from Shanghai Jiao Tong University (SJTU) in 2023 and 2020, respectively.  
-My current research interests lie in **LLM safety, alignment and reasoning**. If you’re interested in my work, feel free to contact me.
+I am a Member of Technical Staff at Anthropic. I am also a Ph.D. student at the [University of Texas at Austin](https://www.utexas.edu), advised by [Prof. Zhangyang Wang](https://vita-group.github.io/group.html). Prior to that, I received my M.S. and B.S. degrees from Shanghai Jiao Tong University (SJTU) in 2023 and 2020, respectively.  
+My current research interests lie in **LLM Interpretability, safety and alignment**. If you're interested in my work, feel free to contact me.
 
 
 
@@ -26,11 +26,20 @@ My current research interests lie in **LLM safety, alignment and reasoning**. If
 
 - *2023.06*: &nbsp;🎉🎉 I'm going to join [VITA](https://vita-group.github.io/group.html) in August, 2023!
 - *2025.03*: &nbsp;🎉🎉 I'm going to join [Anthropic](https://alignment.anthropic.com/2024/anthropic-fellows-program) as a AI safety Research Fellow!
+- *2025.10*: &nbsp;🎉🎉 I have joined [Anthropic](https://www.anthropic.com/) as a Member of Technical Staff!
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
+
+[Persona Vectors: Monitoring and Controlling Character Traits in Language Models](https://arxiv.org/pdf/2507.21509)
+
+**Runjin Chen**,  Andy Arditi,  Henry Sleight, Owain Evans, Jack Lindsey
+
+[SEAL: Steerable Reasoning Calibration of Large Language Models for Free](https://arxiv.org/pdf/2504.07986) [COLM 2025]
+
+**Runjin Chen**<sup>*</sup>, Zhenyu Zhang<sup>*</sup>, Junyuan Hong, Souvik Kundu,  Zhangyang Wang
 
 [LLaGA: Large Language and Graph Assistant](https://arxiv.org/abs/2402.08170) [ICML 2024]
 
@@ -79,12 +88,17 @@ Chaoyu Guan<sup>*</sup>, Xiting Wang<sup>*</sup>, Quanshi Zhang, **Runjin Chen**
 - *2016 - 2020*, Bachelor in Computer Science, Shanghai Jiao Tong University. 
 
 
-# 💻 Internships
-- *2023.02 - 2023.06*, MLE at [Bytedance](https://www.bytedance.com/en/), Shanghai.
+# 💻 Working Experience
+- *2025.10 - present*, Member of Technical Staff (full-time) at [Anthropic](https://www.anthropic.com/).
+
+- *2025.03 - 2025.09*, Reasearch Fellow at [Anthropic](https://alignment.anthropic.com/2024/anthropic-fellows-program), Berkeley.
 
 - *2024.06 - 2024.10*, Reasearch Intern at [Snap](https://www.snapchat.com/), Bellevue.
 
-- *2025.03 - 2025.09*, Reasearch Fellow at [Anthropic](https://alignment.anthropic.com/2024/anthropic-fellows-program), Berkeley.
+
+- *2023.02 - 2023.06*, MLE at [Bytedance](https://www.bytedance.com/en/), Shanghai.
+
+
 
 
 # 🎖 Honors and Awards
